@@ -13,7 +13,7 @@ Criar um site responsivo que simule um aplicativo de streaming, possuindo fácil
 - JavaScript
 - Git & GitHub
 - API: Mux (https://mux.com)
-- Wireframe: https://excalidraw.com/#json=Oa3ZVx_zbyZ4hGxXf844q,mryz0HD0KUGyFBbhrD52GA
+- Wireframe: https://excalidraw.com/#json=Oa3ZVx_zbyZ4hGxXf844q,mryz0HD0KUGyFBbhrD52GA & https://www.figma.com/design/va9bOFzlRvxS77oEbvJ7gy/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=lLdVotcbOsGpgw2g-0
 
 Transcodificação, hospedagem, e streaming de vídeo com player integrado.
 
