@@ -12,6 +12,11 @@ Criar um site responsivo que simule um aplicativo de streaming.
 - CSS3
 - JavaScript
 - Git & GitHub
+- API: Mux (https://mux.com)
+
+Transcodificação, hospedagem, e streaming de vídeo com player integrado.
+
+Ótima documentação, fácil integração com React, Node, etc.
 
 ## 🧩 Funcionalidades
 
