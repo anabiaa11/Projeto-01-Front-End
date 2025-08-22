@@ -4,7 +4,7 @@ Este é um projeto de um site de streaming com objetivo de simular uma plataform
 
 ## 📌 Objetivo
 
-Criar um site responsivo que simule um aplicativo de streaming.
+Criar um site responsivo que simule um aplicativo de streaming, possuindo fácil navegação, responsividade entre outras funcionalidades
 
 ## 🚀 Tecnologias Utilizadas
 
