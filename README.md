@@ -27,6 +27,6 @@ Transcodificação, hospedagem, e streaming de vídeo com player integrado.
 - Simulação de um player de vídeo
 - Layout responsivo
 
-## ✅ Justificativa do Projeto
+## ✅ Justificativa
 
 A ideia do GheaFlix é criar um site de streaming moderno, fácil de usar e que funcione bem em qualquer dispositivo. Ele simula plataformas famosas como Netflix e Prime Video, oferecendo uma experiência visual bacana, navegação intuitiva e conteúdo organizado por categorias. O foco é entregar uma interface rápida, responsiva e com cara de serviço profissional — tudo feito com tecnologias web atuais.
