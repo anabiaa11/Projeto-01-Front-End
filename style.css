@@ -116,7 +116,7 @@ h2 {
 }
 
 .card img {
-  width: 100%;
+  width: 80%;
   height: auto;
 }
 
@@ -155,7 +155,7 @@ h2 {
 }
 
 .filme-card img {
-  width: 100%;
+  width: 80%;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
@@ -202,11 +202,6 @@ main {
   transform: scale(1.05);
 }
 
-.card img {
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-}
 
 .card h3 {
   margin: 10px 0 5px;
