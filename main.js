@@ -35,7 +35,7 @@ window.onload = function () {
         card.className = "filme-card";
 
         card.innerHTML = `
-          <img src="${baseImgUrl + filme.poster_path}" alt="${filme.title}"  height="400px"/>
+          <img src="${baseImgUrl + filme.poster_path}" alt="${filme.title}"  height="500px"/>
           <h3>${filme.title}</h3>
           <p>${filme.release_date.split("-")[0]} • FILME</p>
         `;

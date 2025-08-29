@@ -12,6 +12,11 @@ header {
   align-items: center;
   padding: 15px 30px;
   flex-wrap: wrap;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
 }
 
 .logo {
@@ -75,6 +80,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: fixed;
+  z-index: 1000;
 }
 
 nav ul {
@@ -99,6 +106,12 @@ nav ul li a {
 
 h2 {
   margin: 30px 20px 10px;
+}
+
+#destaques .row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 20px;
 }
 
 .grid {
