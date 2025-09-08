@@ -66,3 +66,4 @@ window.onload = function () {
     })
     .catch(error => console.error("Erro ao carregar séries populares:", error));
 };
+  
